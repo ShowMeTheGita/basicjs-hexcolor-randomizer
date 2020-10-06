@@ -3,6 +3,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #ffffff; 
 }
 
 .container {
@@ -15,6 +16,7 @@ body {
 
 .hex {
     font-size: 3rem;
+    text-transform: uppercase;
 }
 
 .hexBtn {
