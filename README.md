@@ -8,8 +8,9 @@ Part of the "BasicJS Projects" series of repositories containing simple JavaScri
 
 A website with a clickable button that randomizes a valid hex color value, assigns it as the background color and displays it.
 
+---
 
-### BasicJS Repos
+### :beginner: BasicJS Repos
 
 * [Quote Grabber](https://github.com/ShowMeTheGita/basicjs-quote-grabber)
 * [Hexcolor Background Randomizer](https://github.com/ShowMeTheGita/basicjs-hexcolor-randomizer)
