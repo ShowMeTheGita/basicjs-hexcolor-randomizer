@@ -11,7 +11,7 @@ A website with a clickable button that randomizes a valid hex color value, assig
 
 ### BasicJS Repos
 
-* [Quote Grabber](tba.pt)
-* [Hexcolor Background Randomizer](tba.pt)
-* [Image Slier](tba.pt)
-* [Pass the Message](tba.pt)
+* [Quote Grabber](https://github.com/ShowMeTheGita/basicjs-quote-grabber)
+* [Hexcolor Background Randomizer](https://github.com/ShowMeTheGita/basicjs-hexcolor-randomizer)
+* [Image Slider](https://github.com/ShowMeTheGita/basicjs-image-slider)
+* [Message Passer](https://github.com/ShowMeTheGita/basicjs-message-passer)
